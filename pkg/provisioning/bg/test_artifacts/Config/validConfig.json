@@ -1,0 +1,51 @@
+{
+  "bpm_revision": 1,
+  "bpm_revocation": 0,
+  "bpm_acm_revocation": 2,
+  "bpm_nem_stack_size": 32,
+  "bpm_pbet": 15,
+  "bpm_ibb_mchbar_addr": 0,
+  "bpm_vtd_bar_addr": 0,
+  "bpm_dma_base0_addr": 1048576,
+  "bpm_dma_base0_size": 15728640,
+  "bpm_dma_base1_addr": 0,
+  "bpm_dma_base1_size": 16777216,
+  "bpm_ibb_segment_flags": 7,
+  "bpm_ibb_entry_point_addr": 4294967280,
+  "bpm_ibb_hash_algorithms": [11, 4, 12],
+  "bpm_ibb_segments": [
+    {
+      "offset": 4294918080,
+      "size": 49152,
+      "flags": 0
+    }
+  ],
+  "bpm_sinit_min_version": 0,
+  "bpm_txt_flags": 0,
+  "bpm_power_down_interval": 60,
+  "bpm_acpi_base_offset": 1280,
+  "bpm_powerm_base_offset": 4261412864,
+  "bpm_ptt_cmos_offset0": 126,
+  "bpm_ptt_cmos_offset1": 127,
+  "bpm_pfr_flags": 0,
+  "bpm_cpld_smbus_addr": 224,
+  "bpm_pch_active_offset": 50266112,
+  "bpm_pch_recovery_offset": 29294592,
+  "bpm_pch_staging_offset": 8323072,
+  "bpm_bmc_active_offset": 524288,
+  "bpm_bmc_recovery_offset": 44040192,
+  "bpm_bmc_staging_offset": 77594624,
+  "bpm_pcd_data": null,
+  "bpm_pm_data": null,
+  "km_revision": 1,
+  "km_svn": 0,
+  "km_id": 1,
+  "km_public_key_hash_algorithm": 11,
+  "km_hashes": [
+    {
+      "usage": 1,
+      "hash": "84aa08257cc4c0ce6ffbbe23c80db80e05fa61630cfee012760ce4ad156e1144",
+      "algorithm": 11
+    }
+  ]
+}
